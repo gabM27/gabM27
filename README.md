@@ -6,5 +6,5 @@
 * 📚 I’m mainly learning HTML, CSS, JavaScript, PHP. 
 * 📚 I’m also learning how to implement Android applications with Java and Kotlin. 
 * ⚙️ I'm Actually working mainly with Java in software development.
-* 📫 How to reach me: [Linkedin](www.linkedin.com/in/gabriele-magazzù) / gabriele.27.magazzu@gmail.com
+* 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gabriele-magazzù) / gabriele.27.magazzu@gmail.com
 * 🥰 In love with coffee☕, beer🍺 and basketball🏀
