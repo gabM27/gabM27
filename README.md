@@ -1,6 +1,6 @@
 ## Hi there, i'm Gabriele 👋
 
-### I'm an italian student attending first cycle/bachelor degree in Information Science for Management at Alma Mater Studiorum - University of Bologna.
+### I'm an italian student attending a first cycle/bachelor degree in Information Science for Management at Alma Mater Studiorum - University of Bologna.
 
 #### Something about me:
 * ⚙️ Actually working with Java in software development / backend development.
