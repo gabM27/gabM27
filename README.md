@@ -9,7 +9,8 @@ I'm Gabriele, a 22-year-old student at Alma Mater Studiorum, University of Bolog
 - ⚙️ Proficient in object-oriented programming, particularly with Java.
 - 📚 Currently deepening my knowledge of HTML, CSS, and JavaScript.
 - 🎮 Actively learning C++ and Unity for game development.
-- 🧠 Skilled in Python for artificial intelligence model training.
+- 🧠 Skilled in Python for AI model training.
+- 🕹️ A committed gamer, with a strong focus on Minecraft ⛏️.
 - 🏀 Basketball and sports lover 🏋️‍♂️.
 - 🌿 Leading a healthy lifestyle, except for my (not-so-)occasional overindulgence in caffeine ☕.
 
