@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm Gabriele, a 22-year-old student at Alma Mater Studiorum, University of Bologna, currently in my second year of the Master's Degree program in Computer Science. I'm passionate about striving for excellence in everything I undertake, with a particular focus on computer science and sports, especially the exciting worlds of video games and basketball. I'm on the lookout for an internship opportunity that aligns with my interests and expertise in one of the following areas: game development, data analysis, or IoT.
+I'm Gabriele, a 23-year-old student at Alma Mater Studiorum, University of Bologna, currently in my second year of the Master's Degree program in Computer Science. I'm passionate about striving for excellence in everything I undertake, with a particular focus on computer science and sports, especially the exciting worlds of video games and basketball. I'm on the lookout for an internship opportunity that aligns with my interests and expertise in one of the following areas: game development, data analysis, or IoT.
 
 ### Something else
 
