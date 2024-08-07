@@ -8,7 +8,6 @@ I'm Gabriele, a student at Alma Mater Studiorum, University of Bologna, currentl
 
 - ⚙️ Proficient in object-oriented programming, particularly with Java.
 - 📚 Currently deepening my knowledge of HTML, CSS, and JavaScript.
-- 🎮 Actively learning C++ and Unity for game development.
 - 🧠 Skilled in Python for AI model training.
 - 🕹️ A committed gamer, with a strong focus on Minecraft ⛏️.
 - 🏀 Basketball and sports lover 🏋️‍♂️.
